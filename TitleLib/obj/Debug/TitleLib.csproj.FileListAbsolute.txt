@@ -1,0 +1,5 @@
+D:\Programming\MyProjects\Patterns\TitleLib\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\TitleLib\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\TitleLib\obj\Debug\TitleLib.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\TitleLib\obj\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\TitleLib\obj\Debug\TitleLib.pdb
