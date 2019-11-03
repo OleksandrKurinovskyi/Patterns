@@ -8,6 +8,18 @@ namespace Strategy.Ducks
     {
         private IFlyBehavior m_flyBehavior;
 
+        internal IFlyBehavior IFlyBehavior
+        {
+            get
+            {
+                return m_flyBehavior;
+            }
+            set
+            {
+                m_flyBehavior = value;
+            }
+        }
+
         private IQuackBehavior m_quackBehavior;
 
         public Duck(IFlyBehavior flyBehavior, IQuackBehavior quackBehavior)
@@ -36,18 +48,6 @@ namespace Strategy.Ducks
             if (m_quackBehavior != null)
             {
                 m_quackBehavior.DoQuack();
-            }
-        }
-
-        internal IFlyBehavior IFlyBehavior
-        {
-            get
-            {
-                return m_flyBehavior;
-            }
-            set
-            {
-                m_flyBehavior = value;
             }
         }
     }
