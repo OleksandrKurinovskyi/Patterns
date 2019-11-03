@@ -1,0 +1,8 @@
+D:\Programming\MyProjects\Patterns\Singlton\bin\Debug\Singlton.exe.config
+D:\Programming\MyProjects\Patterns\Singlton\bin\Debug\Singlton.exe
+D:\Programming\MyProjects\Patterns\Singlton\bin\Debug\Singlton.pdb
+D:\Programming\MyProjects\Patterns\Singlton\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Singlton\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Singlton\obj\Debug\Singlton.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Singlton\obj\Debug\Singlton.exe
+D:\Programming\MyProjects\Patterns\Singlton\obj\Debug\Singlton.pdb
