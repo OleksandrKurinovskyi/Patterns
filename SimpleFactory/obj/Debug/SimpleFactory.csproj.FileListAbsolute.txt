@@ -1,0 +1,7 @@
+D:\Programming\MyProjects\Patterns\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\Programming\MyProjects\Patterns\SimpleFactory\bin\Debug\SimpleFactory.exe
+D:\Programming\MyProjects\Patterns\SimpleFactory\bin\Debug\SimpleFactory.pdb
+D:\Programming\MyProjects\Patterns\SimpleFactory\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\SimpleFactory\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\Programming\MyProjects\Patterns\SimpleFactory\obj\Debug\SimpleFactory.pdb
