@@ -11,9 +11,9 @@ namespace Singlton
         {
             Title.UpperIndent(Assembly.GetExecutingAssembly());
 
-            //TestSimple();
+            TestSimple();
 
-            TestThresd();
+            //TestThresd();
 
 
             Title.BottonIndent();
@@ -23,11 +23,9 @@ namespace Singlton
         {
             SingltonClass s1 = SingltonClass.GetInstance();
             Console.WriteLine(s1.GetHashCode());
-            Console.WriteLine(SingltonClass.Counter);
 
             SingltonClass s2 = SingltonClass.GetInstance();
             Console.WriteLine(s2.GetHashCode());
-            Console.WriteLine(SingltonClass.Counter);
         }
 
         static void TestThresd()
@@ -36,11 +34,9 @@ namespace Singlton
             {
                 SingltonClass s1 = SingltonClass.GetInstance();
                 Console.WriteLine(s1.GetHashCode());
-                Console.WriteLine(SingltonClass.Counter);
             })).Start();
             SingltonClass s2 = SingltonClass.GetInstance();
             Console.WriteLine(s2.GetHashCode());
-            Console.WriteLine(SingltonClass.Counter);
         }
     }
 }

@@ -10,8 +10,6 @@ namespace Singlton
     {
         private static Object _locker = new object();
 
-        public static int Counter { get; private set; }
-
         private static SingltonClass _singltonClass;
 
         public static SingltonClass GetInstance()
@@ -22,7 +20,7 @@ namespace Singlton
                 {
                     if (_singltonClass == null)
                     {
-                        _singltonClass = CreateInstance();
+                        _singltonClass = new SingltonClass();
                     }
                 }
             }
@@ -32,12 +30,6 @@ namespace Singlton
         private SingltonClass()
         {
 
-        }
-
-        private static SingltonClass CreateInstance()
-        {
-            Counter++;
-            return new SingltonClass();
         }
     }
 }
