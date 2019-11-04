@@ -1,0 +1,1 @@
+D:\Programming\MyProjects\Patterns\Command\bin\Debug\Command.exe.config
