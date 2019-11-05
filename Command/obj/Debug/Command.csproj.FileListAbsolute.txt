@@ -1,1 +1,8 @@
 D:\Programming\MyProjects\Patterns\Command\bin\Debug\Command.exe.config
+D:\Programming\MyProjects\Patterns\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Command\bin\Debug\Command.exe
+D:\Programming\MyProjects\Patterns\Command\bin\Debug\Command.pdb
+D:\Programming\MyProjects\Patterns\Command\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Command\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Command\obj\Debug\Command.exe
+D:\Programming\MyProjects\Patterns\Command\obj\Debug\Command.pdb
