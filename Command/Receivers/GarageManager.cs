@@ -6,12 +6,12 @@ namespace Command.Receivers
     {
         public void DoorUp()
         {
-            Console.WriteLine("GarageManager dore is UP");
+            Console.WriteLine("GarageManager doore is UP");
         }
 
-        public void DooDown()
+        internal void DoorDown()
         {
-            Console.WriteLine("GarageManager dore is DOWN");
+            Console.WriteLine("GarageManager doore is DOWN");
         }
 
         public void DoorStop()

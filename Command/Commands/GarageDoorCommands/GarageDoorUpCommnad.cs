@@ -18,5 +18,13 @@ namespace Command.Commands.GarageDoorCommands
                 _garageManager.DoorUp();
             }
         }
+
+        public void Undo()
+        {
+            if (_garageManager != null)
+            {
+                _garageManager.DoorDown();
+            }
+        }
     }
 }

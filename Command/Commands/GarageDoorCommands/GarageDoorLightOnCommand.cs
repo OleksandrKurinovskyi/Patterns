@@ -2,7 +2,7 @@
 
 namespace Command.Commands.GarageDoorCommands
 {
-    class GarageDoorLightOnCommand
+    class GarageDoorLightOnCommand : ICommand
     {
         private GarageManager _garageManager;
 
@@ -16,6 +16,14 @@ namespace Command.Commands.GarageDoorCommands
             if (_garageManager != null)
             {
                 _garageManager.LightOn();
+            }
+        }
+
+        public void Undo()
+        {
+            if (_garageManager != null)
+            {
+                _garageManager.LightOff();
             }
         }
     }

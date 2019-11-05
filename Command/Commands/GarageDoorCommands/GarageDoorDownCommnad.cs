@@ -15,7 +15,15 @@ namespace Command.Commands.GarageDoorCommands
         {
             if (_garageManager != null)
             {
-                _garageManager.DooDown();
+                _garageManager.DoorDown();
+            }
+        }
+
+        public void Undo()
+        {
+            if (_garageManager != null)
+            {
+                _garageManager.DoorUp();
             }
         }
     }

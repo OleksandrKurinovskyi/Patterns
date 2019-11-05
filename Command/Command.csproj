@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\EmptyCommand.cs" />
     <Compile Include="Commands\GarageDoorCommands\GarageDoorDownCommnad.cs" />
     <Compile Include="Commands\GarageDoorCommands\GarageDoorLightOffCommand.cs" />
     <Compile Include="Commands\GarageDoorCommands\GarageDoorLightOnCommand.cs" />
@@ -49,6 +50,8 @@
     <Compile Include="Commands\ICommand.cs" />
     <Compile Include="Commands\LightInRoomCommands\LightInRoomOffCommand.cs" />
     <Compile Include="Commands\LightInRoomCommands\LightInRoomOnCommand.cs" />
+    <Compile Include="Commands\MacroCommand.cs" />
+    <Compile Include="Controller.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Receivers\GarageManager.cs" />

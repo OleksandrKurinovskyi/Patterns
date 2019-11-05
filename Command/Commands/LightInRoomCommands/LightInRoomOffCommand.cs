@@ -18,5 +18,13 @@ namespace Command.Commands.LightInRoomCommands
                 _lightInRoomManager.Off();
             }
         }
+
+        public void Undo()
+        {
+            if (_lightInRoomManager != null)
+            {
+                _lightInRoomManager.On();
+            }
+        }
     }
 }
