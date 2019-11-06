@@ -1,0 +1,8 @@
+D:\Programming\MyProjects\Patterns\Adapter\bin\Debug\Adapter.exe.config
+D:\Programming\MyProjects\Patterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Adapter\bin\Debug\Adapter.exe
+D:\Programming\MyProjects\Patterns\Adapter\bin\Debug\Adapter.pdb
+D:\Programming\MyProjects\Patterns\Adapter\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Adapter\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Adapter\obj\Debug\Adapter.exe
+D:\Programming\MyProjects\Patterns\Adapter\obj\Debug\Adapter.pdb
