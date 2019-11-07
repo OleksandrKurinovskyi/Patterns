@@ -52,6 +52,7 @@
     <ProjectReference Include="..\TitleLib\TitleLib.csproj">
       <Project>{eb6a93f7-0eb6-4a90-8d12-d6fff371a692}</Project>
       <Name>TitleLib</Name>
+      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
