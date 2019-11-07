@@ -1,0 +1,8 @@
+D:\Programming\MyProjects\Patterns\Facade\bin\Debug\Facade.exe.config
+D:\Programming\MyProjects\Patterns\Facade\bin\Debug\Facade.exe
+D:\Programming\MyProjects\Patterns\Facade\bin\Debug\Facade.pdb
+D:\Programming\MyProjects\Patterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Facade\obj\Debug\Facade.exe
+D:\Programming\MyProjects\Patterns\Facade\obj\Debug\Facade.pdb
+D:\Programming\MyProjects\Patterns\Facade\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Facade\bin\Debug\TitleLib.pdb
