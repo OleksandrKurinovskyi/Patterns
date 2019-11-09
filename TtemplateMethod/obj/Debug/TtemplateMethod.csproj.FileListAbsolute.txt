@@ -1,0 +1,8 @@
+D:\Programming\MyProjects\Patterns\TtemplateMethod\bin\Debug\TtemplateMethod.exe.config
+D:\Programming\MyProjects\Patterns\TtemplateMethod\bin\Debug\TtemplateMethod.exe
+D:\Programming\MyProjects\Patterns\TtemplateMethod\bin\Debug\TtemplateMethod.pdb
+D:\Programming\MyProjects\Patterns\TtemplateMethod\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\TtemplateMethod\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\TtemplateMethod\obj\Debug\TtemplateMethod.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\TtemplateMethod\obj\Debug\TtemplateMethod.exe
+D:\Programming\MyProjects\Patterns\TtemplateMethod\obj\Debug\TtemplateMethod.pdb
