@@ -2,7 +2,7 @@
 using System.Reflection;
 using System;
 
-namespace TtemplateMethod
+namespace TemplateMethod
 {
     class Program
     {

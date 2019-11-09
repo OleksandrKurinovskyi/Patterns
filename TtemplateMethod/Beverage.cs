@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TtemplateMethod
+namespace TemplateMethod
 {
     abstract class Beverage
     {
