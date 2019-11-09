@@ -1,0 +1,8 @@
+D:\Programming\MyProjects\Patterns\Iterator\bin\Debug\Iterator.exe.config
+D:\Programming\MyProjects\Patterns\Iterator\bin\Debug\Iterator.exe
+D:\Programming\MyProjects\Patterns\Iterator\bin\Debug\Iterator.pdb
+D:\Programming\MyProjects\Patterns\Iterator\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Iterator\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Iterator\obj\Debug\Iterator.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Iterator\obj\Debug\Iterator.exe
+D:\Programming\MyProjects\Patterns\Iterator\obj\Debug\Iterator.pdb
