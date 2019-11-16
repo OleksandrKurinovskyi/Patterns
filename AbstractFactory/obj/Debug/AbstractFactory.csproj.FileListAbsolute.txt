@@ -1,7 +1,0 @@
-D:\Programming\MyProjects\Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-D:\Programming\MyProjects\Patterns\AbstractFactory\bin\Debug\AbstractFactory.exe
-D:\Programming\MyProjects\Patterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
-D:\Programming\MyProjects\Patterns\AbstractFactory\bin\Debug\TitleLib.dll
-D:\Programming\MyProjects\Patterns\AbstractFactory\bin\Debug\TitleLib.pdb
-D:\Programming\MyProjects\Patterns\AbstractFactory\obj\Debug\AbstractFactory.exe
-D:\Programming\MyProjects\Patterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

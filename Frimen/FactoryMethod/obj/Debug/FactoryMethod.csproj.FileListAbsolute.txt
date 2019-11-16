@@ -1,0 +1,14 @@
+D:\Programming\MyProjects\Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Programming\MyProjects\Patterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Programming\MyProjects\Patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Programming\MyProjects\Patterns\FactoryMethod\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\FactoryMethod\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Programming\MyProjects\Patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Frimen\FactoryMethod\bin\Debug\TitleLib.pdb

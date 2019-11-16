@@ -1,0 +1,16 @@
+D:\Programming\MyProjects\Patterns\Strategy\bin\Debug\Strategy.exe.config
+D:\Programming\MyProjects\Patterns\Strategy\bin\Debug\Strategy.exe
+D:\Programming\MyProjects\Patterns\Strategy\bin\Debug\Strategy.pdb
+D:\Programming\MyProjects\Patterns\Strategy\obj\Debug\Strategy.exe
+D:\Programming\MyProjects\Patterns\Strategy\obj\Debug\Strategy.pdb
+D:\Programming\MyProjects\Patterns\Strategy\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Strategy\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\bin\Debug\Strategy.exe.config
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\obj\Debug\Strategy.exe
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\obj\Debug\Strategy.pdb
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\bin\Debug\Strategy.exe
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\bin\Debug\Strategy.pdb
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Frimen\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache

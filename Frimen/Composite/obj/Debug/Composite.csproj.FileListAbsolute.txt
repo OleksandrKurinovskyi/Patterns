@@ -1,0 +1,8 @@
+D:\Programming\MyProjects\Patterns\Composite\bin\Debug\Composite.exe.config
+D:\Programming\MyProjects\Patterns\Composite\bin\Debug\Composite.exe
+D:\Programming\MyProjects\Patterns\Composite\bin\Debug\Composite.pdb
+D:\Programming\MyProjects\Patterns\Composite\bin\Debug\TitleLib.dll
+D:\Programming\MyProjects\Patterns\Composite\bin\Debug\TitleLib.pdb
+D:\Programming\MyProjects\Patterns\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\Programming\MyProjects\Patterns\Composite\obj\Debug\Composite.exe
+D:\Programming\MyProjects\Patterns\Composite\obj\Debug\Composite.pdb
